@@ -1,0 +1,5 @@
+<resources>
+    <string name="feat">Featured</string>
+    <string name="app_name">FP Unsplash Client</string>
+    <string name="title_activity_feed">FeedActivity</string>
+</resources>
